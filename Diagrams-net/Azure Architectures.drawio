@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T10:52:11.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Kq9priVc4n42ZdwV2pnN" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-12T10:52:43.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KTwpASbFtLM0cE656D8g" version="20.3.0" type="github" pages="3">
   <diagram id="hN93t1C7bbDnFKwRcA_1" name="ADF">
     <mxGraphModel dx="2364" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,10 +205,10 @@
         <mxCell id="7IUj4POb13uZYROJBhph-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=13;fontColor=#3333FF;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7IUj4POb13uZYROJBhph-7" target="7IUj4POb13uZYROJBhph-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7IUj4POb13uZYROJBhph-7" value="Serverless Pool" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.serverless;shadow=0;fontFamily=Helvetica;labelPosition=right;" vertex="1" parent="1">
+        <mxCell id="7IUj4POb13uZYROJBhph-7" value="Serverless Pools" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.serverless;shadow=0;fontFamily=Helvetica;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="590" y="380" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7IUj4POb13uZYROJBhph-10" value="Dedicated Pool" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/dedicated-server-128.png;shadow=0;fontFamily=Helvetica;fontSize=13;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="7IUj4POb13uZYROJBhph-10" value="Dedicated Pools" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/dedicated-server-128.png;shadow=0;fontFamily=Helvetica;fontSize=13;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
