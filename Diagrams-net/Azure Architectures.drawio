@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T04:37:58.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xCwrM6ceQeyAlTbhbRew" version="20.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-19T05:15:40.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yZIL3C9iOCOJdDoA-yGM" version="20.4.0" type="github" pages="4">
   <diagram id="hN93t1C7bbDnFKwRcA_1" name="ADF">
-    <mxGraphModel dx="2272" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2032" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,6 +388,41 @@
         </mxCell>
         <mxCell id="FJJurWae8Qwl0rzujv1v-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-jar-format-type-128.png" vertex="1" parent="1">
           <mxGeometry x="879.79" y="-106" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p79r00QZdfwtgDER9BJn" name="Files">
+    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="jmLtBsSLzDJu9eHYnofb-1" target="jmLtBsSLzDJu9eHYnofb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="jmLtBsSLzDJu9eHYnofb-1" target="jmLtBsSLzDJu9eHYnofb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="jmLtBsSLzDJu9eHYnofb-1" target="jmLtBsSLzDJu9eHYnofb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-1" value="File Formats" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-2" value="AVRO" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-4" value="&lt;em style=&quot;box-sizing: inherit; outline-color: inherit; color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;ORC&lt;/em&gt;&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;(Optimized Row Columnar format)&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-6" value="&lt;em style=&quot;box-sizing: inherit; outline-color: inherit; color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Parquet&lt;/em&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="630" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-9" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Row-based&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="125" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLtBsSLzDJu9eHYnofb-10" value="&lt;span style=&quot;color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Columnar data&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
