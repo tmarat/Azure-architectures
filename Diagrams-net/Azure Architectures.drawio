@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T06:03:02.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pVvIrpfrEDivfqpwYzb_" version="20.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-19T06:42:35.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VfbhqoQ120w70BwYX-bp" version="20.4.0" type="github" pages="6">
   <diagram id="hN93t1C7bbDnFKwRcA_1" name="ADF">
     <mxGraphModel dx="2032" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -546,11 +546,25 @@
         <mxCell id="vQGvjFBlxwFrz_SkhRxH-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="vQGvjFBlxwFrz_SkhRxH-25" target="vQGvjFBlxwFrz_SkhRxH-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vQGvjFBlxwFrz_SkhRxH-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="vQGvjFBlxwFrz_SkhRxH-25" target="vQGvjFBlxwFrz_SkhRxH-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237.47058823529414" y="-463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQGvjFBlxwFrz_SkhRxH-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="vQGvjFBlxwFrz_SkhRxH-25" target="vQGvjFBlxwFrz_SkhRxH-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQGvjFBlxwFrz_SkhRxH-25" value="Azure Storage" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=17;image=img/lib/azure2/storage/Storage_Accounts.svg;shadow=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="25" y="-570" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vQGvjFBlxwFrz_SkhRxH-26" value="BLOB Container" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;shadow=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-230" y="-615" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vQGvjFBlxwFrz_SkhRxH-30" value="File Share" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Data_Shares.svg;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-450" width="64" height="55.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="vQGvjFBlxwFrz_SkhRxH-31" value="Tables" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-390" width="65" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
